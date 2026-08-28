@@ -1,0 +1,15 @@
+# Rust build output
+**/target/
+
+# C/C++ compiled binaries
+**/*.o
+**/*.obj
+**/*.exe
+**/*.out
+
+# Your current C binary naming pattern
+c/*/main
+
+# OS junk
+.DS_Store
+Thumbs.db
