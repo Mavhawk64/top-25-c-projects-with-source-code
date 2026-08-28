@@ -1,0 +1,1 @@
+/home/maverick/repos/top-25-c-projects-with-source-code/rust/rock_paper_scissors/target/debug/rock_paper_scissors: /home/maverick/repos/top-25-c-projects-with-source-code/rust/rock_paper_scissors/src/main.rs

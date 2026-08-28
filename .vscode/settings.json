@@ -1,0 +1,6 @@
+// .vscode/settings.json
+{
+    "chat.disableAIFeatures": true,
+    "editor.inlineSuggest.enabled": false,
+    "workbench.colorTheme": "One Dark Pro"
+}
