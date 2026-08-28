@@ -2,5 +2,5 @@
 {
     "chat.disableAIFeatures": true,
     "editor.inlineSuggest.enabled": false,
-    "workbench.colorTheme": "One Dark Pro"
+    "workbench.colorTheme": "Visual Studio Dark - C++"
 }
